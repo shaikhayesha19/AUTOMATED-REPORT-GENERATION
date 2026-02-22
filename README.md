@@ -53,3 +53,11 @@ Additionally, I included helpful features such as automatic timestamp generation
 
 I successfully completed this automated report generation project, meeting all original requirements and delivering a fully functional, professional solution. The script works reliably, generates high-quality PDF reports, and can be easily customized for different data sources and reporting needs. This system can be applied to various real-world scenarios including sales reporting, employee performance analysis, financial data summaries, and business intelligence reporting. The foundation I've created is solid and can be extended with additional features such as charts, graphs, custom branding, or scheduled automated execution for regular report generation.
 
+#OUTPUT
+
+<img width="492" height="161" alt="Image" src="https://github.com/user-attachments/assets/b8df5487-cb9f-481b-90f8-2e904db9e872" />
+
+<img width="808" height="571" alt="Image" src="https://github.com/user-attachments/assets/3205aa2d-0c63-4cfb-8317-cbbb3a34a32b" />
+
+<img width="773" height="572" alt="Image" src="https://github.com/user-attachments/assets/56fbbf88-d382-4957-b3c9-70f1ed78a0ec" />
+
